@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geraxrodriguez" alt="geraxrodriguez" /></a> </p>
 
-- 🔭 I’m currently working on [Latiné Professional Development Directory (LPDD)](https://lpdd.netlify.app/)
-
-- 🌱 I’m currently learning **TypeScript and Next.js**
+- 🔭 I’m currently looking for SWE I roles.
 
 - 💬 Ask me about **JavaScript, React, homemade Mexican salsas, Node.js, and MongoDB.**
 
