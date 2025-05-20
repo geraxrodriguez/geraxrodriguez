@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Gerardo</h1>
-<h3 align="center">Enjoying the journey to becoming a software craftsman.</h3>
 
 <div align="center"> 🔭 I’m currently looking for SWE I roles. </div>
 
